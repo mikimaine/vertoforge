@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- V shape -->
+  <path
+    d="M40,20 L60,20 L100,120 L140,20 L160,20 L100,180 Z"
+    fill="#000"
+  />
+
+  <!-- Circuit lines -->
+  <path d="M110,80 C120,60 140,50 150,65" fill="none" stroke="#000" stroke-width="8" stroke-linecap="round"/>
+  <path d="M115,90 C125,70 145,60 155,75" fill="none" stroke="#000" stroke-width="8" stroke-linecap="round"/>
+  <path d="M120,100 C130,80 150,70 160,85" fill="none" stroke="#000" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- Nodes -->
+  <circle cx="150" cy="65" r="7" fill="#000"/>
+  <circle cx="155" cy="75" r="7" fill="#000"/>
+  <circle cx="160" cy="85" r="7" fill="#000"/>
+</svg>
